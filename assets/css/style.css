@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Lora);
+
 body
 {
     background-image: url(".../bg.jpg");
@@ -8,9 +10,11 @@ h1 {
   padding-bottom: 2px;
   background-color: #b30000;
   color: white;
-
+  font-family: 'Lora', serif;
 }
-
+p {
+  font-family:'Lora', serif;
+}
 .form-group{
   padding-top: 20px;
   margin-left: 20px;
@@ -24,6 +28,7 @@ h1 {
 }
 .carousel-caption {
   color: black;
+  font-family: 'Lora', serif;
 }
 .carousel {
   padding-bottom: 3px;
