@@ -50,6 +50,10 @@ color:#eeeeee;
       border: 1px solid #ddd;
       border-radius: 4px;
 }
+.thumbnail .caption {
+  padding: 360px 580px;
+}
+
 .thumbnail img
 { position: relative;
   top: 0;
