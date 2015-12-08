@@ -5,6 +5,9 @@ body
 h1 {
   text-align: center;
 }
+.jumbotron {
+  background-color: #b3ffb3
+}
 .col-md-1 {
   border-left: 1px solid black;
   border-right: 1px solid black;
