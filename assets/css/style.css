@@ -1,12 +1,14 @@
 body
 {
-    background-image: url("bg.jpg");
+    background-image: url("Images/bg.jpg");
 }
 h1 {
   text-align: center;
 }
 .jumbotron {
   background-color:#66ff66;
+  background-image: url(Images/logo.jpg);
+  color: white;
 
 }
 .col-md-1 {
