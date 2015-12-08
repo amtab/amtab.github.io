@@ -6,7 +6,8 @@ h1 {
   text-align: center;
 }
 .jumbotron {
-  background-image: url("Images/gb.jpg");
+  background-color: #dfbf9f
+;
 }
 .col-md-1 {
   border-left: 1px solid black;
