@@ -15,7 +15,7 @@ h1 {
 p {
   font-family:'Lora', serif;
 }
-small {
+#small {
   color:#ffffff;
 }
 .form-group{
@@ -61,8 +61,10 @@ color:#6600cc;
 }
 .thumbnail {
       display: inline-block;
-      padding: 4px;
-      margin-bottom: 0%;
+      padding: 15px;
+      margin-bottom: 20px;
+      margin-right: 20px;
+      margin-left: 20px;
       line-height: 1.42857143;
       background-color: #ddd;
       border: 1px solid #ddd;
