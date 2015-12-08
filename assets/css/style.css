@@ -31,3 +31,10 @@ color:#eeeeee;
       border: 1px solid #ddd;
       border-radius: 4px;
 }
+.thumbnail img
+{ position: relative;
+  top: 0;
+  bottom: 0;
+  margin:
+  auto; 
+ }
