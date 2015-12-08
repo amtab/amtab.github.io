@@ -23,7 +23,7 @@ color:#eeeeee;
   background-color: AntiqueWhite;
 }
 .thumbnail {
-      display: block;
+      display: inline;
       padding: 4px;
       margin-bottom: 0%;
       line-height: 1.42857143;
