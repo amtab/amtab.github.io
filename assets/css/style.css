@@ -8,7 +8,7 @@ h1 {
   text-align: center;
   padding-top: 3px;
   padding-bottom: 2px;
-  background-color: #b30000;
+  background-color:  #8585ad;
   color: white;
   font-family: 'Lora', serif;
 }
@@ -41,7 +41,8 @@ p {
   height: 1080px;
 }
 .navbar-custom {
-background-color: #5cb85c;
+background-color:#66d9ff
+;
 color:#ffffff;
 border-radius:0;
 }
