@@ -29,6 +29,7 @@ p {
 .carousel-caption {
   color: black;
   font-family: 'Lora', serif;
+  text-align: right;
 }
 .carousel {
   padding-bottom: 3px;
