@@ -14,7 +14,10 @@ h1 {
 .carousel-caption {
   color: black;
 }
-
+.carousel {
+  padding-bottom: 3px;
+  max-height: 200px;
+}
 
 .col-md-1 {
   border-left: 1px solid black;
