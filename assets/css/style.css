@@ -42,7 +42,7 @@ background-color:transparent;
 color:#eeeeee;
 }
 .thumbnail {
-      display: inline-block;
+      display: inline;
       padding: 4px;
       margin-bottom: 0%;
       line-height: 1.42857143;
