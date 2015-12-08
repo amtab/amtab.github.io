@@ -2,6 +2,9 @@ body
 {
     background-image: url("Images/Sula.jpg");
 }
+h1 {
+  text-align: center;
+}
 .col-md-1 {
   border-left: 1px solid black;
   border-right: 1px solid black;
