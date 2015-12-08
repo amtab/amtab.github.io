@@ -7,10 +7,15 @@ h1 {
 }
 .jumbotron {
   background-color:#66ff66;
-  background-image: url(Images/logo.jpg);
+  background-image: url(.../logo.jpg);
   color: white;
 
 }
+.carousel-caption {
+  color: black;
+}
+
+
 .col-md-1 {
   border-left: 1px solid black;
   border-right: 1px solid black;
